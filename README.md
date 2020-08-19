@@ -3,7 +3,7 @@
 Welcome to this github profile. This is a backend developer currently working under an organisation but still trying to make time for the interesting stuff. Here you may find projects which will help you on your daily regular usage of personal computer/laptops 💻. 
 
 ## About 👦🏻
-- 🔭 I’m currently working on a system optimisation script and protable application creator for windows so my friends don't get tricked while clicking next, next and install 😂.
+- 🔭 I’m currently working on a system optimisation script and portable application creator for windows so my friends don't get tricked while clicking next, next and install 😂.
 - 🌱 I’m currently learning .NET, ML
 - 👯 I’m looking to collaborate on [powertoys](https://github.com/microsoft/PowerToys).
 - 🤔 I’m looking for help with frontend for nice UI/UX.
