@@ -14,11 +14,11 @@ I am good with python, C++ and shell scripting. 🧡 tinkering with embedded com
 
 
 ## Find me at 🌐
-[1]: https://img.shields.io/badge/-abhishekbhakat-blue?logo=linkedin&labelColor=black
-[2]: https://img.shields.io/badge/-%40abh15hek__av1-blue?logo=twitter&labelColor=black
-[3]: https://img.shields.io/badge/-abhishekbhakat-black?logo=dev.to&labelColor=black
-[4]: https://img.shields.io/badge/-abhishekavi-blue?logo=facebook&labelColor=black
-[5]: https://img.shields.io/badge/-mailto%3Aabhishek%20bhakat-black?logo=Microsoft-Outlook&labelColor=blue
+[1]: https://img.shields.io/badge/-abhishekbhakat-green?logo=linkedin&labelColor=black
+[2]: https://img.shields.io/badge/-%40abh15hek__av1-green?logo=twitter&labelColor=black
+[3]: https://img.shields.io/badge/-abhishekbhakat-green?logo=dev.to&labelColor=black
+[4]: https://img.shields.io/badge/-abhishekavi-green?logo=facebook&labelColor=black
+[5]: https://img.shields.io/badge/-mailto%3Aabhishek%20bhakat-green?logo=Microsoft-Outlook&labelColor=black
 
 [![Alt text][1]](https://www.linkedin.com/in/abhishekbhakat)<br>
 [![Alt text][2]](https://twitter.com/abh15hek_av1)<br>
