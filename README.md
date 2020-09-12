@@ -4,7 +4,7 @@ Welcome to this github profile. This is a backend developer currently working un
 
 ## About 👦🏻
 - 🔭 I’m currently working on a system optimisation script and portable application creator for windows so my friends don't get tricked while clicking next, next and install 😂.
-- 🌱 I’m currently learning .NET, ML with pyTorch
+- 🌱 I’m currently learning ML with pyTorch
 - 👯 I’m looking to collaborate on [powertoys](https://github.com/microsoft/PowerToys).
 - 🤔 I’m looking for help with frontend for nice UI/UX.
 - 💬 Ask me about anything that runs on ⚡.
