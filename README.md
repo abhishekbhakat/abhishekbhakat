@@ -13,7 +13,7 @@ Welcome to this github profile. This is a backend developer currently working un
 I am good with python, C++ and shell scripting. 🧡 tinkering with embedded computing and home automation with try to make cross ecosystem software work together. (for example: [IFTTT](https://ifttt.com/) + [Plex](https://www.plex.tv/) + [Google Assistant Routines](https://assistant.google.com/) = 🤖 Supercool media assitant). 🧡 fidgeting 🛠 with [Docker](https://www.docker.com/) and virtualisation and super excited with WSL2 development.
 
 
-## Find me at 🌐
+## Find me on 🌐
 [1]: https://img.shields.io/badge/-abhishekbhakat-blue?logo=linkedin&labelColor=black
 [2]: https://img.shields.io/badge/-%40abh15hek__av1-blue?logo=twitter&labelColor=black
 [3]: https://img.shields.io/badge/-abhishekbhakat-black?logo=dev.to&labelColor=black
