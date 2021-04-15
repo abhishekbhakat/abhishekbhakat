@@ -1,16 +1,7 @@
 # Hello World 🙋🏻‍♂️
 
-Welcome to this github profile. This is a backend developer currently working under an organisation but still trying to make time for the interesting stuff. Here you may find projects which will help you on your daily regular usage of personal computer/laptops 💻. 
-
-## About 👦🏻
-- 🔭 I’m currently working on a system optimisation script and portable application creator for windows so my friends don't get tricked while clicking next, next and install 😂.
-- 🌱 I’m currently learning ML with pyTorch
-- 🤔 I’m looking for help with frontend for nice UI/UX.
-- 💬 Ask me about anything that runs on ⚡.
-
-## Interests 🧡 
-I am good with python, C++ and shell scripting. 🧡 tinkering with embedded computing and home automation with try to make cross ecosystem software work together. (for example: [IFTTT](https://ifttt.com/) + [Plex](https://www.plex.tv/) + [Google Assistant Routines](https://assistant.google.com/) = 🤖 Supercool media assitant). 🧡 fidgeting 🛠 with [Docker](https://www.docker.com/) and virtualisation and super excited with WSL2 development.
-
+Switching to blockchain...
+Future is Decentralized 🤘🏻
 
 ## Find me on 🌐
 [1]: https://img.shields.io/badge/-abhishekbhakat-blue?logo=linkedin&labelColor=black
