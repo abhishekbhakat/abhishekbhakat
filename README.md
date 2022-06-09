@@ -1,6 +1,6 @@
 # Hello World 🙋🏻‍♂️
 
-Airflow Engineer at Astronomer Inc.
+<img src="airflow_spin.gif" width="20" height="20"/> Airflow Engineer at Astronomer Inc.
 
 Future is Decentralized 🤘🏻
 
