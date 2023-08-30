@@ -2,7 +2,7 @@
 
 <img src="airflow_spin.gif" width="20" height="20"/> Airflow Engineer at Astronomer Inc.
 
-Future is Decentralized <img src="ether.png" width="20" height="20"/>
+Supporting Decentralization <img src="ether.png" width="20" height="20"/>
 
 ## Find me on 🌐
 [1]: https://img.shields.io/badge/-abhishekbhakat-blue?logo=linkedin&labelColor=black
