@@ -2,6 +2,8 @@
 
 <img src="airflow_spin.gif" width="20" height="20"/> Airflow Engineer at Astronomer Inc.
 
+Bullish 🐂 on Self Hosted. <br>
+Homarr: [home.bhakat.dev](https://home.bhakat.dev/board)<br>
 Supporting Decentralization <img src="ether.png" width="20" height="20"/>
 
 ## Find me on 🌐
@@ -15,4 +17,4 @@ Supporting Decentralization <img src="ether.png" width="20" height="20"/>
 [![Alt text][2]](https://twitter.com/abh15hek_av1)<br>
 [![Alt text][3]](https://dev.to/abhishekbhakat)<br>
 [![Alt text][4]](https://www.facebook.com/abhishekavi)<br>
-[![Alt text][5]](mailto:abhishek.bhakat@hotmail.com)
+[![Alt text][5]](mailto:abhishek@bhakat.dev)
