@@ -2,9 +2,8 @@
 
 <img src="airflow_spin.gif" width="20" height="20"/> Airflow Engineer at Astronomer Inc.
 
-Bullish 🐂 on Self Hosted. <br>
-Homarr: [home.bhakat.dev](https://home.bhakat.dev/board)<br>
-Supporting Decentralization <img src="ether.png" width="20" height="20"/>
+🚀 Hosted Solutions. <br>
+Website: [bhakat.dev](https://bhakat.dev/board)<br>
 
 ## Find me on 🌐
 [1]: https://img.shields.io/badge/-abhishekbhakat-blue?logo=linkedin&labelColor=black
