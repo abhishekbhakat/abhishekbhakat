@@ -15,5 +15,4 @@ Website: [bhakat.dev](https://bhakat.dev/board)<br>
 [![Alt text][1]](https://www.linkedin.com/in/abhishekbhakat)<br>
 [![Alt text][2]](https://twitter.com/abh15hek_av1)<br>
 [![Alt text][3]](https://dev.to/abhishekbhakat)<br>
-[![Alt text][4]](https://www.facebook.com/abhishekavi)<br>
 [![Alt text][5]](mailto:abhishek@bhakat.dev)
