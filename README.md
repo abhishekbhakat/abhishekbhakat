@@ -1,6 +1,6 @@
 # Hello World 🙋🏻‍♂️
 
-<img src="airflow_spin.gif" width="20" height="20"/> Airflow Engineer at Astronomer Inc.
+Data Engineering playing with <img src="airflow_spin.gif" width="20" height="20"/> Apache Airflow
 
 🚀 Self Hosted Solutions. <br>
 Website: [bhakat.dev](https://bhakat.dev/board)<br>
