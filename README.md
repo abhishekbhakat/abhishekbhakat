@@ -4,7 +4,8 @@
 
 **Data Engineering with <img src="airflow_spin.gif" width="20" height="20"/> Apache Airflow**
 
-[![LinkedIn](https://img.shields.io/badge/-abhishekbhakat-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekbhakat) [![Twitter](https://img.shields.io/badge/-%40abh15hek__av1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abh15hek_av1) [![Website](https://img.shields.io/badge/-bhakat.dev-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://bhakat.dev) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek@bhakat.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekbhakat) [![X](https://img.shields.io/badge/-abhishek_a_i-222222?style=flat-square&logo=x&logoColor=white)](https://x.com/abhishek_a_i)
+ [![Website](https://img.shields.io/badge/-bhakat.dev-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://bhakat.dev) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek@bhakat.dev)
 
 </div>
 
